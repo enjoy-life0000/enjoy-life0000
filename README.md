@@ -6,6 +6,7 @@ My passion lies in developing web and mobile applications with Python, JavaScrip
 I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
 
 **My Reseach Interest**:
+
 ✅ Blockchain & Smart Contracts: Solidity, Web3.js, Ethers.js, WAGMI, GraphQL, Rust, Tact, FunC &nbsp;
 
 ✅ Full Stack Development: Node.js, Express.js, React.js, Next.js, Typescript &nbsp;
