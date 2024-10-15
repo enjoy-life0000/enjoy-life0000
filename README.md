@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/126e87a9-20d8-4b6f-94b7-6972150c6fc4)- 👋 Hi, I’m @enjoy-life0000
 - 👀 I’m interested in ...
-### Hi there, I'm [Senior BlockChain Developer] 👋
+### Hi there, I'm [Senior FullStack Developer] 👋
 
 In my 9+ years of professional experience, I'm a highly skilled Blockchain and Full Stack developer with several years of experience, specializing in the development of DeFi applications, and Telegram/Discord bots. My expertise lies in creating seamless user experiences by integrating smart contracts, backend, frontend, and bots, particularly for Ethereum, Solana and Ton chains.
 
@@ -8,11 +8,11 @@ My passion lies in developing web and mobile applications with Python, JavaScrip
 I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
 
 **My Reseach Interest**:
-- Improving a website's technical aspects to increase its pages' ranking in the search engines. 
-- SEO Technology
-- Database Architecture
-- AI technology
-- Cloud Service
+✅ Blockchain & Smart Contracts: Solidity, Web3.js, Ethers.js, WAGMI, GraphQL, Rust, Tact, FunC
+✅ Full Stack Development: Node.js, Express.js, React.js, Next.js, Typescript
+✅ Database Management: Mongoose, MySQL, PostgreSQL
+✅ Bot Development: Javascript, Python, discord.js, discord.py, python-telegram-bot, telepot
+✅ Others: Django, PHP, CodeIgniter, C, C++
 
  **I am open to**:
 
@@ -20,8 +20,6 @@ I am so passionate about what I do that I spend a lot of time learning about new
 - machine learning projects(GPT technology),
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-## Skills:
 
 #### Languages:
 
