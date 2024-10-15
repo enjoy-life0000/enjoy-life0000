@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @enjoy-life0000
+![image](https://github.com/user-attachments/assets/126e87a9-20d8-4b6f-94b7-6972150c6fc4)- 👋 Hi, I’m @enjoy-life0000
 - 👀 I’m interested in ...
-### Hi there, I'm [Senior Web && Mobile Developer] 👋
+### Hi there, I'm [Senior BlockChain Developer] 👋
 
-In my 6+ years of professional experience, I have been working relentlessly to help my customers turn their ideas into working and successful applications through designing, developing, and delivering quality software.
-I make myself available around the clock so I can respond quickly and efficiently to problems as they arise. I handle every aspect of software development and have a very diverse skill set.
+In my 9+ years of professional experience, I'm a highly skilled Blockchain and Full Stack developer with several years of experience, specializing in the development of DeFi applications, and Telegram/Discord bots. My expertise lies in creating seamless user experiences by integrating smart contracts, backend, frontend, and bots, particularly for Ethereum, Solana and Ton chains.
+
 My passion lies in developing web and mobile applications with Python, JavaScript, SQL Database, and DevOps.
 I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
 
