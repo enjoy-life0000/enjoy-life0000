@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/126e87a9-20d8-4b6f-94b7-6972150c6fc4)- 👋 Hi, I’m @enjoy-life0000
+👋 Hi, I’m @enjoy-life0000
 - 👀 I’m interested in ...
 ### Hi there, I'm [Senior FullStack Developer] 👋
 
