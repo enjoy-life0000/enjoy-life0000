@@ -1,5 +1,3 @@
-👋 Hi, I’m @enjoy-life0000
-- 👀 I’m interested in ...
 ### Hi there, I'm [Senior FullStack Developer] 👋
 
 In my 9+ years of professional experience, I'm a highly skilled Blockchain and Full Stack developer with several years of experience, specializing in the development of DeFi applications, and Telegram/Discord bots. My expertise lies in creating seamless user experiences by integrating smart contracts, backend, frontend, and bots, particularly for Ethereum, Solana and Ton chains.
