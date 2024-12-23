@@ -1,6 +1,6 @@
-### Hi there, I'm [Senior FullStack Developer] 👋
+### Hi there, I'm [Senior BlockChain Developer] 👋
 
-In my 9+ years of professional experience, I'm a highly skilled Blockchain and Full Stack developer with several years of experience, specializing in the development of DeFi applications, and Telegram/Discord bots. My expertise lies in creating seamless user experiences by integrating smart contracts, backend, frontend, and bots, particularly for Ethereum, Solana and Ton chains.
+I am a self-motivated Software Engineer with over 9 years of experience, specializing in blockchain and AI engineering development. With 8 years of experience in Solana, Ethereum, and other blockchain ecosystems, I specialize in developing scalable, secure, and transparent smart contracts. I’ve collaborated on projects from concept to deployment, including NFT marketplaces, staking platforms, gaming ecosystems, and decentralized exchanges. 
 
 My passion lies in developing web and mobile applications with Python, JavaScript, SQL Database, and DevOps.
 I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
