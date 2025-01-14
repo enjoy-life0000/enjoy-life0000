@@ -1,6 +1,7 @@
 ### Hi there, I'm [Senior Software Developer] 👋
 
-I am a self-motivated Software Engineer with over 9 years of experience, specializing in blockchain and AI engineering development. With 8 years of experience in Solana, Ethereum, and other blockchain ecosystems, I specialize in developing scalable, secure, and transparent smart contracts. I’ve collaborated on projects from concept to deployment, including NFT marketplaces, staking platforms, gaming ecosystems, and decentralized exchanges. 
+I am a self-motivated Software Engineer with over 9 years of experience, specializing in Frontend and Backend development. 
+I am a skilled Software Engineer with 9+ years in Full Stack Web Development, specializing in React, Next, Vue, Web Scraping, and TypeScript. I have experience with startups, MVPs, and enterprises, covering Front End Technology, Back End Development, databases, servers, APIs, and version control systems.
 
 My passion lies in developing web and web3 applications with React, Next, Web3.js, Python(Django, Flask, FastAPI), JavaScript, SQL Database, and DevOps.
 I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
